@@ -1,8 +1,8 @@
 # Yum-Bites
 
-Latif Nur Anhari
-M. Zaenal Mutaqim
-Satria Wiguna
+- Latif Nur Anhari
+- M. Zaenal Mutaqim
+- Satria Wiguna
 
 
 link demo prototype :
